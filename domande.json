@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "categoria": "La Ciurma",
+    "domanda": "Qual è il nome del cuoco della ciurma di Cappello di Paglia?",
+    "opzioni": ["Sanji", "Gin", "Chef Boyardee", "Donut-kun"],
+    "rispostaCorretta": 0
+  },
+  {
+    "id": 2,
+    "categoria": "La Ciurma",
+    "domanda": "Qual è il sogno di Roronoa Zoro?",
+    "opzioni": ["Diventare il più forte spadaccino del mondo", "Aprire una palestra di spade per bambini",
+     "Trovare la mappa per non perdersi mai", "Sconfiggere tutti i cuochi del mondo"],
+    "rispostaCorretta": 0
+  },
+    {
+    "id": 3,
+    "categoria": "La Ciurma",
+    "domanda": "Qual è il vero nome di Nico Robin?",
+    "opzioni": ["Nico Olivia", "Nico Robin", "Miss All Sunday", "Robin-chwan Deluxe Edition"],
+    "rispostaCorretta": 1
+  },
+    {
+    "id": 4,
+    "categoria": "Il Mondo",
+    "domanda": "Chi era il Re dei Pirati prima dell’inizio della storia?",
+    "opzioni": ["Gol D. Roger", "Monkey D. Dragon", "Edward Newgate", "Mario D. Plumber"],
+    "rispostaCorretta": 0
+  },
+    {
+    "id": 5,
+    "categoria": "Il Mondo",
+    "domanda": "Come si chiama la nave di Rufy all’inizio della saga?",
+    "opzioni": ["Thousand Sunny", "Going Merry", "Red Line Express", "Barca Gonfiabile di Shanks"],
+    "rispostaCorretta": 1
+  },
+    {
+    "id": 6,
+    "categoria": "Poteri e Combattimenti",
+    "domanda": "Quale di questi NON è uno dei tre tipi di Haki?",
+    "opzioni": ["Kenbunshoku", "Busoshoku", "Hokus Pokus", "Haoshoku"],
+    "rispostaCorretta": 2
+  },
+    {
+    "id": 7,
+    "categoria": "Poteri e Combattimenti",
+    "domanda": "Che tipo di Frutto del Diavolo ha mangiato Rufy?",
+    "opzioni": ["Frutto Gommoso al gusto fragola", "Logia", "Zoan", "Paramisha (Paramecia)"],
+    "rispostaCorretta": 3
+  },
+    {
+    "id": 8,
+    "categoria": "Poteri e Combattimenti",
+    "domanda": "Chi ha inflitto la cicatrice sul petto di Rufy?",
+    "opzioni": ["Akainu", "Un gatto troppo aggressivo", "Barbanera", "Crocodile"],
+    "rispostaCorretta": 0
+  },
+    {
+    "id": 9,
+    "categoria": "Misteri e Temi Profondi",
+    "domanda": "Cosa rappresenta la “Volontà della D.”?",
+    "opzioni": ["Un’eredità misteriosa che sfida il destino", "Un clan segreto di dentisti", 
+    "Una marca di ramen leggendaria", "Un errore di battitura diventato canon"],
+    "rispostaCorretta": 0
+  },
+    {
+    "id": 10,
+    "categoria": "Misteri e Temi Profondi",
+    "domanda": "Qual è il vero sogno di Monkey D. Rufy, oltre a diventare Re dei Pirati?",
+    "opzioni": ["Mangiare gratis per sempre", "Costringere tutti a ridere come lui", "Distruggere la Marina a pugni",
+     "Avere la massima libertà del mondo"],
+    "rispostaCorretta": 3
+  }
+]
